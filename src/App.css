@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+
+  background-color: bisque;
+  height: 100vh;
+}
+.App button{
+  margin-top: 40px;
+  background-color:lightgreen;
+  border-radius: 5px;
+}
